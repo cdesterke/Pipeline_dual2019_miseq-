@@ -7,6 +7,7 @@ Bioinformatics pipeline to process fastq miseq for target sequencing : dual call
 
 # references
 
+    - Lai Z, Markovets A, Ahdesmaki M, Chapman B, Hofmann O, McEwen R, Johnson J,Dougherty B, Barrett JC, Dry JR. VarDict: a novel and versatile variant caller for next-generation sequencing in cancer research. Nucleic Acids Res. 2016 Jun 20;44(11):e108.
     - Langmead B, Salzberg SL. Fast gapped-read alignment with Bowtie 2. Nat Methods. 4 mars 2012;9(4):357‑9. 
     - Li H, Handsaker B, Wysoker A, Fennell T, Ruan J, Homer N, et al. The Sequence Alignment/Map format and SAMtools. Bioinforma Oxf Engl. 15 août 2009;25(16):2078‑9. 
     - Quinlan AR. BEDTools: The Swiss-Army Tool for Genome Feature Analysis. Curr Protoc Bioinforma. 8 sept 2014;47:11.12.1-34. 
