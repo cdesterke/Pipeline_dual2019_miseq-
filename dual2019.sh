@@ -23,7 +23,8 @@ echo "--------------------"
 
 log_file="log_file.log" 
 
-
+./fastqc $1
+./fastqc $2
 
 echo "analyse du ficher = $nom_fichier" >> $log_file
 
