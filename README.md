@@ -1,4 +1,5 @@
-# Pipeline_dual2019_miseq-
+# Pipeline_dual2019_miseq- (ID: MYPBR2019CDv1)
+
 Bioinformatics pipeline to process fastq miseq for target sequencing : dual calling of variants
 
 
